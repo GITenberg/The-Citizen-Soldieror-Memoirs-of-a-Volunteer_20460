@@ -1,0 +1,33 @@
+_repo: The-Citizen-Soldieror-Memoirs-of-a-Volunteer_20460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beatty, John
+    birthdate: 1828
+    deathdate: 1914
+    gutenberg_agent_id: '9309'
+    url: http://www.gutenberg.org/2009/agents/9309
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beatty, John, 1828-1914'
+- !lcsh 'United States. Army. Ohio Infantry Regiment, 3rd (1861-1864) -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'Soldiers -- Ohio -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: 'The Citizen-Soldier
+
+  or, Memoirs of a Volunteer'
+url: http://www.gutenberg.org/ebooks/20460
