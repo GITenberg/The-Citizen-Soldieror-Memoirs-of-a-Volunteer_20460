@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9309'
     url: http://www.gutenberg.org/2009/agents/9309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20460#The-Citizen-Soldieror-Memoirs-of-a-Volunteer
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-01-27'
 gutenberg_type: Text
